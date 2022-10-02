@@ -1,0 +1,1 @@
+Goperation is Go functional utility library with syntactic sugar for Go Programming language.
